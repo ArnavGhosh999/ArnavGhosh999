@@ -4,9 +4,6 @@
 - 🚀 Every day, I wake up with a determination to push my boundaries. Coding is my true passion, and I've delved into languages like Java ☕, Python 🐍, C++ 💻, HTML 🌐 etc. But this is just the beginning—I thrive on the challenge of learning new technologies and constantly updating my skills. 💡🔧 
 - 💪 With a tenacious spirit, I tackle every project and problem with a never-give-up attitude. I'm excited to contribute, collaborate, and grow in the ever-evolving world of technology. Let's build something amazing together! 🌐🤝
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavghosh999&label=Profile%20views&color=0e75b6&style=flat" alt="arnavghosh999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavghosh999" alt="arnavghosh999" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI, LLM's and SLM's**
 
