@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋,I'm Arnav Ghosh and here's a glimpse about me</h1>
+<h2 align="center">I'm a passionate learner with an unquenchable thirst for knowledge.</h2>                   
 
-- I'm a passionate learner with an unquenchable thirst for knowledge. 
-- My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨ 
-- 🚀 Every day, I wake up with a determination to push my boundaries. Coding is my true passion, and I've delved into languages like Java ☕, Python 🐍, C++ 💻, HTML 🌐 etc. But this is just the beginning—I thrive on the challenge of learning new technologies and constantly updating my skills. 💡🔧 
-- 💪 With a tenacious spirit, I tackle every project and problem with a never-give-up attitude. I'm excited to contribute, collaborate, and grow in the ever-evolving world of technology. Let's build something amazing together! 🌐🤝
 
--🌱 I’m currently learning **Generative AI, LLM's and SLM's** 
+<img align="right" alt="Coding" width="600" src="https://qph.cf2.quoracdn.net/main-qimg-270b7e36080565f95736692774b60b24">
 
--💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP** 
 
--📫 How to reach me **arnav032919@gmail.com**
+- My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
+
+- 🌱 I’m currently learning **Generative AI, LLM's and SLM's** 
+
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP** 
+
+- 📫 How to reach me **arnav032919@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +21,7 @@
 <a href="https://medium.com/@arnav032919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arnav032919" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES AND TOOLS</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -27,7 +29,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 
-<h3>MACHINE LEARNING TECHSTACK</h3>
+<h3><p align="left">MACHINE LEARNING TECHSTACK</p></h3>
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
