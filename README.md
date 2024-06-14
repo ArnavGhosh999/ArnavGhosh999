@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋,I'm Arnav Ghosh and here's a glimpse about me</h1>
+
 - I'm a passionate learner with an unquenchable thirst for knowledge. 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨ 
 - 🚀 Every day, I wake up with a determination to push my boundaries. Coding is my true passion, and I've delved into languages like Java ☕, Python 🐍, C++ 💻, HTML 🌐 etc. But this is just the beginning—I thrive on the challenge of learning new technologies and constantly updating my skills. 💡🔧 
 - 💪 With a tenacious spirit, I tackle every project and problem with a never-give-up attitude. I'm excited to contribute, collaborate, and grow in the ever-evolving world of technology. Let's build something amazing together! 🌐🤝
 
-
 - 🌱 I’m currently learning **Generative AI, LLM's and SLM's**
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence**
-
+- 💬 Ask me about **Machine Learning, Artificial Intelligence** 
 - 📫 How to reach me **arnav032919@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
