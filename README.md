@@ -25,7 +25,7 @@
 
 <h3><p align="left">MACHINE LEARNING TECHSTACK</p></h3>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" width="40" height="40"> </a> [![My Skills](https://skillicons.dev/icons?i=tensorflow,py,sklearn,anaconda,ai,opencv,pytorch,stackoverflow,seaborn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,py,sklearn,anaconda,ai,opencv,pytorch,stackoverflow,seaborn)](https://skillicons.dev)
 
 </p>
 
