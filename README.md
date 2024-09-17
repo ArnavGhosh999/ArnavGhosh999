@@ -30,8 +30,19 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavghosh999&show_icons=true&locale=en&layout=compact" alt="arnavghosh999" /></p>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=arnavghosh999&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavghosh999&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ArnavGhosh999&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavghosh999&show_icons=true&locale=en" alt="arnavghosh999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavghosh999&" alt="arnavghosh999" /></p>
+<p align="center">
+  <a href="https://github.com/ArnavGhosh999">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/arnav-ghosh2611/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+</p>
