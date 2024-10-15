@@ -7,7 +7,7 @@
 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
 
-- 🌱 I’m currently learning **Generative AI, LLM's and SLM's** 
+- 🌱 I’m currently learning **Quantum Machine Learning and Causal Representation Learning** 
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP** 
 
