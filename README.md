@@ -2,7 +2,7 @@
 <h2 align="center">I'm a passionate learner with an unquenchable thirst for knowledge.</h2>                   
 
 
-<img align="right" alt="Coding" width="600" src="https://qph.cf2.quoracdn.net/main-qimg-270b7e36080565f95736692774b60b24">
+<img align="right" alt="Coding" width="600" src="pics/Bg.gif">
 
 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
