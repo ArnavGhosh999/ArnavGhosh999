@@ -7,9 +7,9 @@
 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
 
-- 🌱 I’m currently learning **Quantum Machine Learning and Causal Representation Learning** 
+- 🌱 I’m currently learning **Quantum Machine Learning and Horizonatal Machine Learning** 
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP** 
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Quantum Machine Learning** 
 
 - 📫 How to reach me **arnav032919@gmail.com**
 
