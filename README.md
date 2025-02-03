@@ -25,7 +25,7 @@
 
 <h3><p align="left">MACHINE LEARNING TECHSTACK</p></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,py,sklearn,anaconda,ai,opencv,pytorch,stackoverflow,seaborn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,py,sklearn,anaconda,opencv,pytorch,stackoverflow,seaborn)](https://skillicons.dev)
 
 </p>
 
