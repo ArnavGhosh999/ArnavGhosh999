@@ -7,7 +7,7 @@
 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
 
-- 🌱 I’m currently learning **Quantum Machine Learning and Horizonatal Machine Learning** 
+- 🌱 I’m currently learning **Quantum Machine Learning and Horizontal Machine Learning** 
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Quantum Machine Learning** 
 
