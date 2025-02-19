@@ -30,10 +30,22 @@
 </p>
 
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ArnavGhosh999&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <br>
-</p>
 
 
 
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=ArnavGhosh999&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" 
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGhosh999&layout=compact&theme=darcula&hide_border=true&bg_color=00000000" 
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
