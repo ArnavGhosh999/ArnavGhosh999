@@ -35,7 +35,5 @@
   <br>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGhosh999)
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?ArnavGhosh999=ffflabs)
