@@ -49,3 +49,10 @@
     </td>
   </tr>
 </table>
+
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ArnavGhosh999&theme=onedark" alt="ArnavGhosh999" />
+  </a> 
+</p>
