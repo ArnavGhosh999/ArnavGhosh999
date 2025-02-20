@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋,I'm Arnav Ghosh and here's a glimpse about me</h1>
 <h2 align="center">I'm a passionate learner with an unquenchable thirst for knowledge.</h2>                   
 
-
-<img align="right" alt="Coding" width="400" src="pics/Bg.gif">
+<img align="right" alt="Coding" width="400" src="pics/Banner.jpeg">
 
 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
