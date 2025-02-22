@@ -57,7 +57,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnavGhosh999&icon=0&color=4)](https://visitcount.itsvg.in)
 
-### Just to look cool 😎
+### Just to look cool😎
 
 <div align="center">
     
