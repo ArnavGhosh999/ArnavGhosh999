@@ -57,5 +57,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnavGhosh999&icon=0&color=4)](https://visitcount.itsvg.in)
 
+### Just to look cool 😎
 
-
+<div align="center">
+    
+  ![snake gif](https://github.com/ArnavGhosh999/ArnavGhosh999/blob/output/github-snake-dark.svg)
+</div>
