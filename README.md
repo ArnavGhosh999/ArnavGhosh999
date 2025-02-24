@@ -11,7 +11,7 @@
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Quantum Machine Learning** 
 
 - 📫 How to reach me **arnav032919@gmail.com**
-- <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
