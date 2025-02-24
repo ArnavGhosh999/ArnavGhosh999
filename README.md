@@ -11,6 +11,7 @@
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Quantum Machine Learning** 
 
 - 📫 How to reach me **arnav032919@gmail.com**
+- <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +54,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ArnavGhosh999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArnavGhosh999&icon=0&color=4)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=ArnavGhosh999&icon=0&color=4)](https://visitcount.itsvg.in)     
+
 
 
