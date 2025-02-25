@@ -31,10 +31,11 @@
         
 ![ArnavGhosh999's Stats](https://github-readme-stats.vercel.app/api?username=ArnavGhosh999&theme=dracula&show_icons=true&hide_border=false&count_private=true)
     </td>
-    <td width=500>
+    <td>
     <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
 </td>
 </table>
+
 
 ![ArnavGhosh999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnavGhosh999&theme=dracula&hide_border=false)
 
