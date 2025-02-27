@@ -37,11 +37,9 @@
 </td>
 </table>
 
-<p align="center">
     
 ![ArnavGhosh999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnavGhosh999&theme=dracula&hide_border=false)
 
-</p>
 
 
 
