@@ -41,17 +41,9 @@
 ![ArnavGhosh999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnavGhosh999&theme=dracula&hide_border=false)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGhosh999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
-  [](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGhosh999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### Just to look cool😎
-
-<div align="center">
-    
-  ![snake gif](https://github.com/ArnavGhosh999/ArnavGhosh999/blob/output/github-snake-dark.svg)
-</div>
 
 
 <p align="center"> 
@@ -71,3 +63,9 @@
 
 
 
+### Just to look cool😎
+
+<div align="center">
+    
+  ![snake gif](https://github.com/ArnavGhosh999/ArnavGhosh999/blob/output/github-snake-dark.svg)
+</div>
