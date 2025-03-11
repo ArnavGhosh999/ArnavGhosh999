@@ -30,7 +30,7 @@
 <table>
     <td width = 500>
         
-![ArnavGhosh999's Stats](https://github-readme-stats.vercel.app/api?username=ArnavGhosh999&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavGhosh999&show_icons=true&theme=radical)
     </td>
     <td width = 500>
     <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
@@ -38,8 +38,7 @@
 </table>
 
 
-![ArnavGhosh999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnavGhosh999&theme=dracula&hide_border=false)
-
+<p align = "center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnavGhosh999&theme=radical" alt="GitHub Streak" /></a></p>
 
 
  
