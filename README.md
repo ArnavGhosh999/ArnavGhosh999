@@ -30,7 +30,11 @@
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"></img>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/IBM%20Qiskit-%236900DD.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Qiskit"/>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+
 
 
 
