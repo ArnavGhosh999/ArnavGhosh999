@@ -74,9 +74,11 @@
 
 
 
-### Just to look cool😎
+
 
 <div align="center">
     
   ![snake gif](https://github.com/ArnavGhosh999/ArnavGhosh999/blob/output/github-snake-dark.svg)
 </div>
+
+<p align = center><strong>Just to look cool😎</strong></p>
