@@ -36,11 +36,16 @@
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 
 
-
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img src="https://count.getloli.com/get/@ArnavGhosh999?theme=3d-num" alt="Visitor counter" />
+  </a>
+</p>
 
 <table>
     <td width = 500>
     <p align = "center"> 
+    
         
 ![](https://gitmystat.vercel.app/top?theme=dark&username=ArnavGhosh999&layout=default)
 
