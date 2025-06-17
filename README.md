@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Geometric Deep Learning, Large Action Models(LAM's)** 
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Quantum Machine Learning** 
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Large Language Models and Agentic A.I** 
 
 - 📫 How to reach me **arnav032919@gmail.com**
 
