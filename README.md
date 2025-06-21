@@ -6,7 +6,7 @@
 
 - My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
 
-- 🌱 I’m currently learning **Geometric Deep Learning, Large Action Models(LAM's)** 
+- 🌱 I’m currently learning **Geometric Deep Learning, Large Action Models(LAM's), Neurosymbolic Models** 
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Large Language Models and Agentic A.I** 
 
