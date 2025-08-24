@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Geometric Deep Learning, Large Action Models(LAM's), Neurosymbolic Models and Llama finetunig methods.** 
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Large Language Models and Agentic A.I** 
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Large Language Models, RAG Architecture and Agentic A.I** 
 
 - 📫 How to reach me **arnav032919@gmail.com**
 
