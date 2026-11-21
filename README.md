@@ -1,96 +1,54 @@
-<h1 align="center">Hi 👋,I'm Arnav Ghosh and here's a glimpse about me</h1>
-<h2 align="center">I'm a passionate learner with an unquenchable thirst for knowledge.</h2>                   
+<img src="assets/header.svg" alt="hey, i'm arnav. ml student building models for images and biology." width="100%">
 
-<img align="center" alt="Coding" length = "200" width="1900" src="pics/Banner.jpeg">
+<br>
 
+## 👋 hi there
 
-- My curiosity drives me to explore a diverse range of subjects, always eager to uncover new insights and deepen my understanding. 📚✨
+hey, i'm arnav. 4th year cs student at SRM IST in chennai, specializing in ai/ml. i build models that look at images and biological data, and then i try to make them explain themselves.
 
-- 🌱 I’m currently learning **Geometric Deep Learning, Large Action Models(LAM's) and Neurosymbolic Models.** 
+i like problems where the data is messy, the stakes are real, and "it works" isn't a good enough answer.
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, NLP, Large Language Models, RAG Architecture and Agentic A.I** 
+<img src="assets/divider.svg" alt="" width="100%">
 
-- 📫 How to reach me **arnav032919@gmail.com**
+## 🔭 what i'm into
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arnav-ghosh2611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnav-ghosh2611/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arnavghosh2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arnavghosh2604" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arnavghosh2611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arnavghosh2611/" height="30" width="40" /></a>
-<a href="https://medium.com/@arnav032919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arnav032919" height="30" width="40" /></a>
+most of my time goes to **medical imaging** and **computational biology**, with **computer vision** underneath both. lately that's multimodal segmentation, image restoration, and sequence modelling, plus some reinforcement learning on the side because bandits are weirdly fun.
+
+i've worked across research, internships, and MLOps, so i care about the boring half too: getting a model out of a notebook and into something that actually runs.
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🧠 how i work
+
+i read the paper twice, run the baseline before the fancy model, and ablate before i believe anything. if i can't reproduce it, it doesn't count. i'd rather ship something small that i understand than something large that i don't.
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 💻 stack
+
+<p>
+  <img src="https://img.shields.io/badge/python-1a1033?style=for-the-badge&logo=python&logoColor=c4b5fd" alt="Python">
+  <img src="https://img.shields.io/badge/pytorch-1a1033?style=for-the-badge&logo=pytorch&logoColor=f9a8d4" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-1a1033?style=for-the-badge&logo=scikitlearn&logoColor=6ee7b7" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/numpy-1a1033?style=for-the-badge&logo=numpy&logoColor=c4b5fd" alt="NumPy">
+  <img src="https://img.shields.io/badge/opencv-1a1033?style=for-the-badge&logo=opencv&logoColor=f9a8d4" alt="OpenCV">
+  <img src="https://img.shields.io/badge/c++-1a1033?style=for-the-badge&logo=cplusplus&logoColor=6ee7b7" alt="C++">
+  <img src="https://img.shields.io/badge/jupyter-1a1033?style=for-the-badge&logo=jupyter&logoColor=c4b5fd" alt="Jupyter">
+  <img src="https://img.shields.io/badge/docker-1a1033?style=for-the-badge&logo=docker&logoColor=f9a8d4" alt="Docker">
+  <img src="https://img.shields.io/badge/linux-1a1033?style=for-the-badge&logo=linux&logoColor=6ee7b7" alt="Linux">
+  <img src="https://img.shields.io/badge/git-1a1033?style=for-the-badge&logo=git&logoColor=c4b5fd" alt="Git">
 </p>
 
+<img src="assets/divider.svg" alt="" width="100%">
 
+## 📡 find me
 
-# 💻 Tech Stack:
-    
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></img>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"></img>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/IBM%20Qiskit-%236900DD.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Qiskit"/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-
-
-<p align="center">
-  <a href="https://count.getloli.com/" target="_blank">
-    <img src="https://count.getloli.com/get/@ArnavGhosh999?theme=3d-num" alt="Visitor counter" />
-  </a>
+<p>
+  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/mail-1a1033?style=for-the-badge&logo=gmail&logoColor=f9a8d4" alt="Email"></a>
+  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/linkedin-1a1033?style=for-the-badge&logo=linkedin&logoColor=c4b5fd" alt="LinkedIn"></a>
+  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/portfolio-1a1033?style=for-the-badge&logo=safari&logoColor=6ee7b7" alt="Portfolio"></a>
 </p>
 
-<table>
-    <td width = 500>
-    <p align = "center"> 
-    
-        
-![](https://gitmystat.vercel.app/top?theme=dark&username=ArnavGhosh999&layout=default)
+<br>
 
- </p>
- </td>
-
- <td width = 500>
- <p align = center>
-
- ![](https://github-contributor-stats.vercel.app/api?username=ArnavGhosh999&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
-</td>
- </table>
-
-<table>
-    <td width = 500>
-        
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavGhosh999\&show_icons=true\&theme=holi)
-    </td>
-    <td width = 500>
-    <p align="center">    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnavGhosh999&theme=radical" alt="GitHub Streak" /></a>
-    
-</p>
-</td>
-</table>
-
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArnavGhosh999&theme=onedark" alt="ArnavGhosh999" />
-  </a> 
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=ArnavGhosh999&icon=0&color=4)](https://visitcount.itsvg.in)     
-
-
-
-
-
-<div align="center">
-    
-  ![snake gif](https://github.com/ArnavGhosh999/ArnavGhosh999/blob/output/github-snake-dark.svg)
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-<p align = center><strong>#Just to look cool😎</strong></p>
+> "loss went down" is a vibe, not a result.
