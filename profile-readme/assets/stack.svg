@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 506" width="900" height="506" role="img" aria-label="stack: python, c++, c, java, pytorch, tensorflow, keras, deepspeed, scikit-learn, git, vs code, ollama, lancedb, fastqc, transformers, llms, vlms, rag, agentic ai, explainable ai, restormer, wgan-gp, neural odes, diffusion, chebnet, lanczosnet, vision, med imaging, bioinformatics, multi-omics, genomics, gen ai">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d10"/><stop offset="1" stop-color="#111820"/></linearGradient>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  <clipPath id="round"><rect width="900" height="506" rx="0"/></clipPath>
+  
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+  .blob { filter: url(#blur); }
+  .b1 { animation: d1 15s ease-in-out infinite alternate; }
+  .b2 { animation: d2 19s ease-in-out infinite alternate; }
+  @keyframes d1 { from { transform: translate(0,0); } to { transform: translate(220px,30px); } }
+  @keyframes d2 { from { transform: translate(0,0); } to { transform: translate(-240px,-20px); } }
+  .row { opacity: 0; animation: row 16s ease-out infinite; }
+  @keyframes row {
+    0% { opacity: 0; transform: translateX(-16px); } 3% { opacity: 1; transform: translateX(0); }
+    92% { opacity: 1; transform: translateX(0); } 96% { opacity: 0; } 100% { opacity: 0; } }
+  .spine { transform-box: fill-box; transform-origin: top; animation: spine 16s ease-out infinite; }
+  @keyframes spine { 0% { transform: scaleY(0); } 18% { transform: scaleY(1); } 92% { transform: scaleY(1); } 100% { transform: scaleY(0); } }
+  .dot { transform-box: fill-box; transform-origin: center; animation: dot 3s ease-in-out infinite; }
+  @keyframes dot { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .row { opacity: 1 !important; } }
+
+  .cell { animation: wave 7s ease-in-out infinite; }
+  @keyframes wave { 0%,18%,100% { fill-opacity: .07; } 8% { fill-opacity: .30; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#round)">
+  <rect width="900" height="506" fill="#0b0d10"/>
+  <g class="blob" style="mix-blend-mode:screen"></g>
+  
+  <rect width="900" height="46" fill="#fff" fill-opacity=".03"/>
+  <rect y="46" width="900" height="1" fill="#fff" fill-opacity=".08"/>
+</g>
+<rect x=".5" y=".5" width="899" height="505" rx="0" fill="none" stroke="#fff" stroke-opacity=".24"/>
+<rect x="23" y="18" width="10" height="10" fill="#ff8a73"/><rect x="43" y="18" width="10" height="10" fill="#7cb7ff"/><rect x="63" y="18" width="10" height="10" fill="#3ddbc0"/>
+<text x="96" y="27" font-size="13" fill="#8a919a">~/stack  —  periodic table of things i use</text>
+<g>
+  <rect class="cell" style="animation-delay:0.00s" x="56.0" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="65.0" y="87" font-size="10" fill="#8a919a">1</text>
+  <text x="100.9" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Py</text>
+  <text x="100.9" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">python</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.12s" x="155.8" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="164.8" y="87" font-size="10" fill="#8a919a">2</text>
+  <text x="200.6" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">C++</text>
+  <text x="200.6" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">c++</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.24s" x="255.5" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="264.5" y="87" font-size="10" fill="#8a919a">3</text>
+  <text x="300.4" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">C</text>
+  <text x="300.4" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">c</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.36s" x="355.2" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="364.2" y="87" font-size="10" fill="#8a919a">4</text>
+  <text x="400.1" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Jv</text>
+  <text x="400.1" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">java</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.48s" x="455.0" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="464.0" y="87" font-size="10" fill="#8a919a">5</text>
+  <text x="499.9" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Pt</text>
+  <text x="499.9" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">pytorch</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.60s" x="554.8" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="563.8" y="87" font-size="10" fill="#8a919a">6</text>
+  <text x="599.6" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Tf</text>
+  <text x="599.6" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">tensorflow</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.72s" x="654.5" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="663.5" y="87" font-size="10" fill="#8a919a">7</text>
+  <text x="699.4" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Ks</text>
+  <text x="699.4" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">keras</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.84s" x="754.2" y="70" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="763.2" y="87" font-size="10" fill="#8a919a">8</text>
+  <text x="799.1" y="122" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Ds</text>
+  <text x="799.1" y="145" font-size="9.5" fill="#c9d0d8" text-anchor="middle">deepspeed</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:0.96s" x="56.0" y="166" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="65.0" y="183" font-size="10" fill="#8a919a">9</text>
+  <text x="100.9" y="218" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Sk</text>
+  <text x="100.9" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="68" lengthAdjust="spacingAndGlyphs">scikit-learn</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.08s" x="155.8" y="166" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="164.8" y="183" font-size="10" fill="#8a919a">10</text>
+  <text x="200.6" y="218" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Gt</text>
+  <text x="200.6" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle">git</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.20s" x="255.5" y="166" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="264.5" y="183" font-size="10" fill="#8a919a">11</text>
+  <text x="300.4" y="218" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Vs</text>
+  <text x="300.4" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle">vs code</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.32s" x="355.2" y="166" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="364.2" y="183" font-size="10" fill="#8a919a">12</text>
+  <text x="400.1" y="218" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Ol</text>
+  <text x="400.1" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle">ollama</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.44s" x="455.0" y="166" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="464.0" y="183" font-size="10" fill="#8a919a">13</text>
+  <text x="499.9" y="218" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Ld</text>
+  <text x="499.9" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle">lancedb</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.56s" x="554.8" y="166" width="89.8" height="86" rx="0" fill="#7cb7ff" fill-opacity=".07" stroke="#7cb7ff" stroke-opacity=".40"/>
+  <text x="563.8" y="183" font-size="10" fill="#8a919a">14</text>
+  <text x="599.6" y="218" font-size="28" font-weight="700" fill="#7cb7ff" text-anchor="middle">Fq</text>
+  <text x="599.6" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle">fastqc</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.68s" x="654.5" y="166" width="89.8" height="86" rx="0" fill="#3ddbc0" fill-opacity=".07" stroke="#3ddbc0" stroke-opacity=".40"/>
+  <text x="663.5" y="183" font-size="10" fill="#8a919a">15</text>
+  <text x="699.4" y="218" font-size="28" font-weight="700" fill="#3ddbc0" text-anchor="middle">Tr</text>
+  <text x="699.4" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="68" lengthAdjust="spacingAndGlyphs">transformers</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.80s" x="754.2" y="166" width="89.8" height="86" rx="0" fill="#3ddbc0" fill-opacity=".07" stroke="#3ddbc0" stroke-opacity=".40"/>
+  <text x="763.2" y="183" font-size="10" fill="#8a919a">16</text>
+  <text x="799.1" y="218" font-size="28" font-weight="700" fill="#3ddbc0" text-anchor="middle">Ll</text>
+  <text x="799.1" y="241" font-size="9.5" fill="#c9d0d8" text-anchor="middle">llms</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:1.92s" x="56.0" y="262" width="89.8" height="86" rx="0" fill="#3ddbc0" fill-opacity=".07" stroke="#3ddbc0" stroke-opacity=".40"/>
+  <text x="65.0" y="279" font-size="10" fill="#8a919a">17</text>
+  <text x="100.9" y="314" font-size="28" font-weight="700" fill="#3ddbc0" text-anchor="middle">Vl</text>
+  <text x="100.9" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle">vlms</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.04s" x="155.8" y="262" width="89.8" height="86" rx="0" fill="#3ddbc0" fill-opacity=".07" stroke="#3ddbc0" stroke-opacity=".40"/>
+  <text x="164.8" y="279" font-size="10" fill="#8a919a">18</text>
+  <text x="200.6" y="314" font-size="28" font-weight="700" fill="#3ddbc0" text-anchor="middle">Rg</text>
+  <text x="200.6" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle">rag</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.16s" x="255.5" y="262" width="89.8" height="86" rx="0" fill="#3ddbc0" fill-opacity=".07" stroke="#3ddbc0" stroke-opacity=".40"/>
+  <text x="264.5" y="279" font-size="10" fill="#8a919a">19</text>
+  <text x="300.4" y="314" font-size="28" font-weight="700" fill="#3ddbc0" text-anchor="middle">Ag</text>
+  <text x="300.4" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle">agentic ai</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.28s" x="355.2" y="262" width="89.8" height="86" rx="0" fill="#3ddbc0" fill-opacity=".07" stroke="#3ddbc0" stroke-opacity=".40"/>
+  <text x="364.2" y="279" font-size="10" fill="#8a919a">20</text>
+  <text x="400.1" y="314" font-size="28" font-weight="700" fill="#3ddbc0" text-anchor="middle">Xa</text>
+  <text x="400.1" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="80" lengthAdjust="spacingAndGlyphs">explainable ai</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.40s" x="455.0" y="262" width="89.8" height="86" rx="0" fill="#ff8a73" fill-opacity=".07" stroke="#ff8a73" stroke-opacity=".40"/>
+  <text x="464.0" y="279" font-size="10" fill="#8a919a">21</text>
+  <text x="499.9" y="314" font-size="28" font-weight="700" fill="#ff8a73" text-anchor="middle">Rs</text>
+  <text x="499.9" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle">restormer</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.52s" x="554.8" y="262" width="89.8" height="86" rx="0" fill="#ff8a73" fill-opacity=".07" stroke="#ff8a73" stroke-opacity=".40"/>
+  <text x="563.8" y="279" font-size="10" fill="#8a919a">22</text>
+  <text x="599.6" y="314" font-size="28" font-weight="700" fill="#ff8a73" text-anchor="middle">Wg</text>
+  <text x="599.6" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle">wgan-gp</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.64s" x="654.5" y="262" width="89.8" height="86" rx="0" fill="#ff8a73" fill-opacity=".07" stroke="#ff8a73" stroke-opacity=".40"/>
+  <text x="663.5" y="279" font-size="10" fill="#8a919a">23</text>
+  <text x="699.4" y="314" font-size="28" font-weight="700" fill="#ff8a73" text-anchor="middle">Nd</text>
+  <text x="699.4" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="63" lengthAdjust="spacingAndGlyphs">neural odes</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.76s" x="754.2" y="262" width="89.8" height="86" rx="0" fill="#ff8a73" fill-opacity=".07" stroke="#ff8a73" stroke-opacity=".40"/>
+  <text x="763.2" y="279" font-size="10" fill="#8a919a">24</text>
+  <text x="799.1" y="314" font-size="28" font-weight="700" fill="#ff8a73" text-anchor="middle">Df</text>
+  <text x="799.1" y="337" font-size="9.5" fill="#c9d0d8" text-anchor="middle">diffusion</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:2.88s" x="56.0" y="358" width="89.8" height="86" rx="0" fill="#ff8a73" fill-opacity=".07" stroke="#ff8a73" stroke-opacity=".40"/>
+  <text x="65.0" y="375" font-size="10" fill="#8a919a">25</text>
+  <text x="100.9" y="410" font-size="28" font-weight="700" fill="#ff8a73" text-anchor="middle">Cn</text>
+  <text x="100.9" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle">chebnet</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.00s" x="155.8" y="358" width="89.8" height="86" rx="0" fill="#ff8a73" fill-opacity=".07" stroke="#ff8a73" stroke-opacity=".40"/>
+  <text x="164.8" y="375" font-size="10" fill="#8a919a">26</text>
+  <text x="200.6" y="410" font-size="28" font-weight="700" fill="#ff8a73" text-anchor="middle">Lz</text>
+  <text x="200.6" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle">lanczosnet</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.12s" x="255.5" y="358" width="89.8" height="86" rx="0" fill="#ffb454" fill-opacity=".07" stroke="#ffb454" stroke-opacity=".40"/>
+  <text x="264.5" y="375" font-size="10" fill="#8a919a">27</text>
+  <text x="300.4" y="410" font-size="28" font-weight="700" fill="#ffb454" text-anchor="middle">Cv</text>
+  <text x="300.4" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle">vision</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.24s" x="355.2" y="358" width="89.8" height="86" rx="0" fill="#ffb454" fill-opacity=".07" stroke="#ffb454" stroke-opacity=".40"/>
+  <text x="364.2" y="375" font-size="10" fill="#8a919a">28</text>
+  <text x="400.1" y="410" font-size="28" font-weight="700" fill="#ffb454" text-anchor="middle">Mi</text>
+  <text x="400.1" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="63" lengthAdjust="spacingAndGlyphs">med imaging</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.36s" x="455.0" y="358" width="89.8" height="86" rx="0" fill="#ffb454" fill-opacity=".07" stroke="#ffb454" stroke-opacity=".40"/>
+  <text x="464.0" y="375" font-size="10" fill="#8a919a">29</text>
+  <text x="499.9" y="410" font-size="28" font-weight="700" fill="#ffb454" text-anchor="middle">Bi</text>
+  <text x="499.9" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="80" lengthAdjust="spacingAndGlyphs">bioinformatics</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.48s" x="554.8" y="358" width="89.8" height="86" rx="0" fill="#ffb454" fill-opacity=".07" stroke="#ffb454" stroke-opacity=".40"/>
+  <text x="563.8" y="375" font-size="10" fill="#8a919a">30</text>
+  <text x="599.6" y="410" font-size="28" font-weight="700" fill="#ffb454" text-anchor="middle">Mo</text>
+  <text x="599.6" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle" textLength="63" lengthAdjust="spacingAndGlyphs">multi-omics</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.60s" x="654.5" y="358" width="89.8" height="86" rx="0" fill="#ffb454" fill-opacity=".07" stroke="#ffb454" stroke-opacity=".40"/>
+  <text x="663.5" y="375" font-size="10" fill="#8a919a">31</text>
+  <text x="699.4" y="410" font-size="28" font-weight="700" fill="#ffb454" text-anchor="middle">Ge</text>
+  <text x="699.4" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle">genomics</text>
+</g>
+<g>
+  <rect class="cell" style="animation-delay:3.72s" x="754.2" y="358" width="89.8" height="86" rx="0" fill="#ffb454" fill-opacity=".07" stroke="#ffb454" stroke-opacity=".40"/>
+  <text x="763.2" y="375" font-size="10" fill="#8a919a">32</text>
+  <text x="799.1" y="410" font-size="28" font-weight="700" fill="#ffb454" text-anchor="middle">Gn</text>
+  <text x="799.1" y="433" font-size="9.5" fill="#c9d0d8" text-anchor="middle">gen ai</text>
+</g>
+<rect x="56" y="470" width="12" height="12" rx="0" fill="#7cb7ff" fill-opacity=".5" stroke="#7cb7ff"/><text x="76" y="480" font-size="12" fill="#b5bcc6">tools and frameworks</text><rect x="254.0" y="470" width="12" height="12" rx="0" fill="#3ddbc0" fill-opacity=".5" stroke="#3ddbc0"/><text x="274.0" y="480" font-size="12" fill="#b5bcc6">methods</text><rect x="355.8" y="470" width="12" height="12" rx="0" fill="#ff8a73" fill-opacity=".5" stroke="#ff8a73"/><text x="375.8" y="480" font-size="12" fill="#b5bcc6">architectures</text><rect x="502.0" y="470" width="12" height="12" rx="0" fill="#ffb454" fill-opacity=".5" stroke="#ffb454"/><text x="522.0" y="480" font-size="12" fill="#b5bcc6">domains</text>
+</svg>

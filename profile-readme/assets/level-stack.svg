@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 132" width="300" height="132" role="img" aria-label="level 03: stack - what i build with">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d10"/><stop offset="1" stop-color="#111820"/></linearGradient>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#fff" fill-opacity=".07"/></pattern>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#3ddbc0" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="round"><rect x="7" width="293" height="132" rx="0"/></clipPath>
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+  .blob { filter: url(#blur); animation: d 9s ease-in-out infinite alternate; }
+  @keyframes d { from { transform: translate(0,0); } to { transform: translate(90px,10px); } }
+  .arrow { animation: nudge 2.4s ease-in-out infinite; }
+  @keyframes nudge { 0%,100% { transform: translate(0,0); } 50% { transform: translate(4px,0); } }
+  .arrow.l { animation-name: nudgel; }
+  @keyframes nudgel { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-4px,0); } }
+  .shine { animation: sweep 6s ease-in-out infinite; }
+  @keyframes sweep { 0% { transform: translateX(-120px); opacity: 0; } 20% { opacity: 1; } 80% { opacity: 1; } 100% { transform: translateX(293px); opacity: 0; } }
+  .seg { opacity: .25; animation: seg 2.4s steps(1) infinite; }
+  @keyframes seg { 0%,32% { opacity: .25; } 33%,100% { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .seg { opacity: 1 !important; } }
+</style>
+<g clip-path="url(#round)">
+  <rect x="7" width="293" height="132" fill="url(#bg)"/>
+  <circle class="blob" cx="57" cy="122" r="55" fill="#3ddbc0" fill-opacity=".35" style="mix-blend-mode:screen"/>
+  <rect x="7" width="293" height="132" fill="url(#dots)"/>
+</g>
+<rect x="7.5" y=".5" width="292" height="131" rx="0" fill="none" stroke="#fff" stroke-opacity=".24"/>
+<rect x="29" y="22" width="8" height="8" fill="#3ddbc0"/>
+<text x="47" y="30" font-size="12" fill="#8a919a">~/level-03</text>
+<rect x="224" y="14" width="58" height="22" rx="0" fill="#3ddbc0" fill-opacity=".14" stroke="#3ddbc0" stroke-opacity=".5"/>
+<text x="253" y="29" font-size="11" fill="#3ddbc0" text-anchor="middle" letter-spacing="1">LVL 03</text>
+<text x="33" y="76" font-size="26" font-weight="700" fill="#f1f4f7">stack</text>
+<text x="33" y="98" font-size="12" fill="#b5bcc6">what i build with</text>
+<rect class="seg" style="animation-delay:0.0s" x="33" y="106" width="16" height="6" rx="0" fill="#3ddbc0"/><rect class="seg" style="animation-delay:0.8s" x="55" y="106" width="16" height="6" rx="0" fill="#3ddbc0"/><rect class="seg" style="animation-delay:1.6s" x="77" y="106" width="16" height="6" rx="0" fill="#3ddbc0"/>
+<g class="arrow" stroke="#3ddbc0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <path d="M252 99 L268 99 M261 92 L268 99 L261 106"/>
+</g>
+</svg>

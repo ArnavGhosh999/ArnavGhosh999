@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 395" width="900" height="395" role="img" aria-label="about: i work on medical imaging models, and on knowing when to trust them. final year b.tech student at SRM IST in chennai, specializing in ai/ml. research collaborations with labs at NUS, CMU and two NITs, plus internships in ml and bioinformatics. outside research: genomics pipelines and a raga classifier.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d10"/><stop offset="1" stop-color="#111820"/></linearGradient>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  <clipPath id="round"><rect width="900" height="395" rx="0"/></clipPath>
+  
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+  .blob { filter: url(#blur); }
+  .b1 { animation: d1 15s ease-in-out infinite alternate; }
+  .b2 { animation: d2 19s ease-in-out infinite alternate; }
+  @keyframes d1 { from { transform: translate(0,0); } to { transform: translate(220px,30px); } }
+  @keyframes d2 { from { transform: translate(0,0); } to { transform: translate(-240px,-20px); } }
+  .row { opacity: 0; animation: row 16s ease-out infinite; }
+  @keyframes row {
+    0% { opacity: 0; transform: translateX(-16px); } 3% { opacity: 1; transform: translateX(0); }
+    92% { opacity: 1; transform: translateX(0); } 96% { opacity: 0; } 100% { opacity: 0; } }
+  .spine { transform-box: fill-box; transform-origin: top; animation: spine 16s ease-out infinite; }
+  @keyframes spine { 0% { transform: scaleY(0); } 18% { transform: scaleY(1); } 92% { transform: scaleY(1); } 100% { transform: scaleY(0); } }
+  .dot { transform-box: fill-box; transform-origin: center; animation: dot 3s ease-in-out infinite; }
+  @keyframes dot { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .row { opacity: 1 !important; } }
+</style>
+<g clip-path="url(#round)">
+  <rect width="900" height="395" fill="url(#bg)"/>
+  <g class="blob" style="mix-blend-mode:screen"><circle class="b1" cx="120" cy="355" r="100" fill="#14b8a6" fill-opacity="0.3"/></g>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#fff" fill-opacity=".06"/></pattern><rect width="900" height="395" fill="url(#dots)"/>
+  <rect width="900" height="46" fill="#fff" fill-opacity=".03"/>
+  <rect y="46" width="900" height="1" fill="#fff" fill-opacity=".08"/>
+</g>
+<rect x=".5" y=".5" width="899" height="394" rx="0" fill="none" stroke="#fff" stroke-opacity=".24"/>
+<rect x="23" y="18" width="10" height="10" fill="#ff8a73"/><rect x="43" y="18" width="10" height="10" fill="#7cb7ff"/><rect x="63" y="18" width="10" height="10" fill="#3ddbc0"/>
+<text x="96" y="27" font-size="13" fill="#8a919a">~/about</text>
+<g class="row"><text x="56" y="110" font-size="24" font-weight="700" fill="#f1f4f7">i work on medical imaging</text><text x="56" y="143" font-size="24" font-weight="700" fill="#f1f4f7">models, and on knowing when to</text><text x="56" y="176" font-size="24" font-weight="700" fill="#f1f4f7">trust them.</text></g>
+<g class="row" style="animation-delay:.5s"><text x="56" y="217" font-size="14" fill="#b5bcc6">final year b.tech student at SRM IST in chennai,</text><text x="56" y="240" font-size="14" fill="#b5bcc6">specializing in ai/ml. research collaborations</text><text x="56" y="263" font-size="14" fill="#b5bcc6">with labs at NUS, CMU and two NITs, plus</text><text x="56" y="286" font-size="14" fill="#b5bcc6">internships in ml and bioinformatics. outside</text><text x="56" y="309" font-size="14" fill="#b5bcc6">research: genomics pipelines and a raga</text><text x="56" y="332" font-size="14" fill="#b5bcc6">classifier.</text></g>
+<text x="580" y="110" font-size="13" fill="#3ddbc0">~/whoami</text>
+<g class="row" style="animation-delay:0.60s"><text x="580" y="140" font-size="13" fill="#8a919a">name</text><text x="650" y="140" font-size="13" fill="#e6eaef">arnav ghosh</text></g>
+<g class="row" style="animation-delay:0.85s"><text x="580" y="166" font-size="13" fill="#8a919a">school</text><text x="650" y="166" font-size="13" fill="#e6eaef">srm ist, chennai</text></g>
+<g class="row" style="animation-delay:1.10s"><text x="580" y="192" font-size="13" fill="#8a919a">degree</text><text x="650" y="192" font-size="13" fill="#e6eaef">b.tech cs, ai/ml</text></g>
+<g class="row" style="animation-delay:1.35s"><text x="580" y="218" font-size="13" fill="#8a919a">year</text><text x="650" y="218" font-size="13" fill="#e6eaef">final year</text></g>
+<g class="row" style="animation-delay:1.60s"><text x="580" y="244" font-size="13" fill="#8a919a">focus</text><text x="650" y="244" font-size="13" fill="#e6eaef">medical imaging</text></g>
+<g class="row" style="animation-delay:1.85s"><text x="580" y="270" font-size="13" fill="#8a919a"></text><text x="650" y="270" font-size="13" fill="#e6eaef">computational biology</text></g>
+<g class="row" style="animation-delay:2.10s"><text x="580" y="296" font-size="13" fill="#8a919a">labs</text><text x="650" y="296" font-size="13" fill="#e6eaef">nus · cmu · 2 nits</text></g>
+<g class="row" style="animation-delay:2.35s"><text x="580" y="322" font-size="13" fill="#8a919a">code</text><text x="650" y="322" font-size="13" fill="#e6eaef">python · c++ · c · java</text></g>
+<rect x="540" y="78" width="1" height="287" fill="#fff" fill-opacity=".08"/>
+</svg>

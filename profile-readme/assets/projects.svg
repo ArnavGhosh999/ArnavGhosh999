@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 538" width="900" height="538" role="img" aria-label="projects: EGMT, tumour segmentation transformer that audits its own use of each MRI modality; CORA-3D, conformal risk control for 3d segmentation, and where the guarantee quietly breaks; Explainable Restormer, super-resolution with attention steered by spatial priors you can inspect; Spiralography, bioinformatics pipeline from sequence annotation to mrna optimization; BNode, neural ode solver with adversarial training and calibrated uncertainty; SurSoothe, raga detection with music therapy suggestions; ALTHERA, retrieval-augmented medicine recommender; FINORA, multi-agent loan and insurance approval system">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d10"/><stop offset="1" stop-color="#111820"/></linearGradient>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  <clipPath id="round"><rect width="900" height="538" rx="0"/></clipPath>
+  
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+  .blob { filter: url(#blur); }
+  .b1 { animation: d1 15s ease-in-out infinite alternate; }
+  .b2 { animation: d2 19s ease-in-out infinite alternate; }
+  @keyframes d1 { from { transform: translate(0,0); } to { transform: translate(220px,30px); } }
+  @keyframes d2 { from { transform: translate(0,0); } to { transform: translate(-240px,-20px); } }
+  .row { opacity: 0; animation: row 16s ease-out infinite; }
+  @keyframes row {
+    0% { opacity: 0; transform: translateX(-16px); } 3% { opacity: 1; transform: translateX(0); }
+    92% { opacity: 1; transform: translateX(0); } 96% { opacity: 0; } 100% { opacity: 0; } }
+  .spine { transform-box: fill-box; transform-origin: top; animation: spine 16s ease-out infinite; }
+  @keyframes spine { 0% { transform: scaleY(0); } 18% { transform: scaleY(1); } 92% { transform: scaleY(1); } 100% { transform: scaleY(0); } }
+  .dot { transform-box: fill-box; transform-origin: center; animation: dot 3s ease-in-out infinite; }
+  @keyframes dot { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .row { opacity: 1 !important; } }
+
+  .card { opacity: 0; animation: rise 14s ease-out infinite; }
+  @keyframes rise { 0% { opacity: 0; transform: translateY(14px); } 5% { opacity: 1; transform: translateY(0); } 92% { opacity: 1; } 96% { opacity: 0; } 100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .card { opacity: 1 !important; } }
+</style>
+<g clip-path="url(#round)">
+  <rect width="900" height="538" fill="#0b0d10"/>
+  <g class="blob" style="mix-blend-mode:screen"><circle class="b2" cx="820" cy="30" r="90" fill="#f59e0b" fill-opacity="0.18"/></g>
+  
+  <rect width="900" height="46" fill="#fff" fill-opacity=".03"/>
+  <rect y="46" width="900" height="1" fill="#fff" fill-opacity=".08"/>
+</g>
+<rect x=".5" y=".5" width="899" height="537" rx="0" fill="none" stroke="#fff" stroke-opacity=".24"/>
+<rect x="23" y="18" width="10" height="10" fill="#ff8a73"/><rect x="43" y="18" width="10" height="10" fill="#7cb7ff"/><rect x="63" y="18" width="10" height="10" fill="#3ddbc0"/>
+<text x="96" y="27" font-size="13" fill="#8a919a">~/projects  —  8 items</text>
+<g class="card" style="animation-delay:0.0s">
+  <rect x="56" y="70" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="56" y="86" width="3" height="66" rx="0" fill="#7cb7ff"/>
+  <text x="78" y="96" font-size="11" fill="#7cb7ff" letter-spacing="1">vision</text>
+  <text x="422" y="96" font-size="11" fill="#6b727b" text-anchor="end">01</text>
+  <text x="78" y="118" font-size="17" font-weight="700" fill="#f1f4f7">EGMT</text>
+  <text x="78" y="138" font-size="12.5" fill="#b5bcc6">tumour segmentation transformer that audits</text><text x="78" y="155" font-size="12.5" fill="#b5bcc6">its own use of each MRI modality</text>
+</g>
+<g class="card" style="animation-delay:0.3s">
+  <rect x="460" y="70" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="460" y="86" width="3" height="66" rx="0" fill="#7cb7ff"/>
+  <text x="482" y="96" font-size="11" fill="#7cb7ff" letter-spacing="1">vision</text>
+  <text x="826" y="96" font-size="11" fill="#6b727b" text-anchor="end">02</text>
+  <text x="482" y="118" font-size="17" font-weight="700" fill="#f1f4f7">CORA-3D</text>
+  <text x="482" y="138" font-size="12.5" fill="#b5bcc6">conformal risk control for 3d segmentation,</text><text x="482" y="155" font-size="12.5" fill="#b5bcc6">and where the guarantee quietly breaks</text>
+</g>
+<g class="card" style="animation-delay:0.6s">
+  <rect x="56" y="182" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="56" y="198" width="3" height="66" rx="0" fill="#7cb7ff"/>
+  <text x="78" y="208" font-size="11" fill="#7cb7ff" letter-spacing="1">vision</text>
+  <text x="422" y="208" font-size="11" fill="#6b727b" text-anchor="end">03</text>
+  <text x="78" y="230" font-size="17" font-weight="700" fill="#f1f4f7">Explainable Restormer</text>
+  <text x="78" y="250" font-size="12.5" fill="#b5bcc6">super-resolution with attention steered by</text><text x="78" y="267" font-size="12.5" fill="#b5bcc6">spatial priors you can inspect</text>
+</g>
+<g class="card" style="animation-delay:0.9s">
+  <rect x="460" y="182" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="460" y="198" width="3" height="66" rx="0" fill="#3ddbc0"/>
+  <text x="482" y="208" font-size="11" fill="#3ddbc0" letter-spacing="1">bio</text>
+  <text x="826" y="208" font-size="11" fill="#6b727b" text-anchor="end">04</text>
+  <text x="482" y="230" font-size="17" font-weight="700" fill="#f1f4f7">Spiralography</text>
+  <text x="482" y="250" font-size="12.5" fill="#b5bcc6">bioinformatics pipeline from sequence</text><text x="482" y="267" font-size="12.5" fill="#b5bcc6">annotation to mrna optimization</text>
+</g>
+<g class="card" style="animation-delay:1.2s">
+  <rect x="56" y="294" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="56" y="310" width="3" height="66" rx="0" fill="#ff8a73"/>
+  <text x="78" y="320" font-size="11" fill="#ff8a73" letter-spacing="1">dynamics</text>
+  <text x="422" y="320" font-size="11" fill="#6b727b" text-anchor="end">05</text>
+  <text x="78" y="342" font-size="17" font-weight="700" fill="#f1f4f7">BNode</text>
+  <text x="78" y="362" font-size="12.5" fill="#b5bcc6">neural ode solver with adversarial training</text><text x="78" y="379" font-size="12.5" fill="#b5bcc6">and calibrated uncertainty</text>
+</g>
+<g class="card" style="animation-delay:1.5s">
+  <rect x="460" y="294" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="460" y="310" width="3" height="66" rx="0" fill="#ffb454"/>
+  <text x="482" y="320" font-size="11" fill="#ffb454" letter-spacing="1">audio</text>
+  <text x="826" y="320" font-size="11" fill="#6b727b" text-anchor="end">06</text>
+  <text x="482" y="342" font-size="17" font-weight="700" fill="#f1f4f7">SurSoothe</text>
+  <text x="482" y="362" font-size="12.5" fill="#b5bcc6">raga detection with music therapy</text><text x="482" y="379" font-size="12.5" fill="#b5bcc6">suggestions</text>
+</g>
+<g class="card" style="animation-delay:1.8s">
+  <rect x="56" y="406" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="56" y="422" width="3" height="66" rx="0" fill="#ffb454"/>
+  <text x="78" y="432" font-size="11" fill="#ffb454" letter-spacing="1">rag</text>
+  <text x="422" y="432" font-size="11" fill="#6b727b" text-anchor="end">07</text>
+  <text x="78" y="454" font-size="17" font-weight="700" fill="#f1f4f7">ALTHERA</text>
+  <text x="78" y="474" font-size="12.5" fill="#b5bcc6">retrieval-augmented medicine recommender</text>
+</g>
+<g class="card" style="animation-delay:2.1s">
+  <rect x="460" y="406" width="384" height="98" rx="0" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="460" y="422" width="3" height="66" rx="0" fill="#ff8a73"/>
+  <text x="482" y="432" font-size="11" fill="#ff8a73" letter-spacing="1">agents</text>
+  <text x="826" y="432" font-size="11" fill="#6b727b" text-anchor="end">08</text>
+  <text x="482" y="454" font-size="17" font-weight="700" fill="#f1f4f7">FINORA</text>
+  <text x="482" y="474" font-size="12.5" fill="#b5bcc6">multi-agent loan and insurance approval</text><text x="482" y="491" font-size="12.5" fill="#b5bcc6">system</text>
+</g>
+</svg>

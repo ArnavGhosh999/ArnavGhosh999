@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-label="ARNAV. ml student building models for images and biology.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d10"/>
+      <stop offset="1" stop-color="#111820"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#3ddbc0"/><stop offset=".5" stop-color="#c9e88a"/><stop offset="1" stop-color="#ffb454"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="round"><rect width="900" height="360" rx="0"/></clipPath>
+  <linearGradient id="word" gradientUnits="userSpaceOnUse" x1="6.2" y1="0" x2="46.46" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#3ddbc0"/><stop offset=".5" stop-color="#c9e88a"/><stop offset="1" stop-color="#ffb454"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="40.26 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+  </defs>
+
+  <style>
+    text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+
+    .blob { filter: url(#blur); }
+    .b1 { animation: d1 13s ease-in-out infinite alternate; }
+    .b2 { animation: d2 17s ease-in-out infinite alternate; }
+    .b3 { animation: d3 11s ease-in-out infinite alternate; }
+    @keyframes d1 { from { transform: translate(0,0); }      to { transform: translate(180px,50px); } }
+    @keyframes d2 { from { transform: translate(0,0); }      to { transform: translate(-200px,-30px); } }
+    @keyframes d3 { from { transform: translate(0,0); }      to { transform: translate(-120px,60px); } }
+
+    .ch { opacity: 0; animation: ch 12s infinite; }
+    @keyframes ch {
+      0%   { opacity: 0; }
+      1%   { opacity: 1; }
+      92%  { opacity: 1; }
+      93%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    .cur-move { animation: cmove 12s steps(14, end) infinite; }
+    @keyframes cmove {
+      0%   { transform: translateX(0); }
+      14%  { transform: translateX(436px); }
+      100% { transform: translateX(436px); }
+    }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+
+    .sub { opacity: 0; animation: sub 9s infinite; }
+    .s2 { animation-delay: 3s; }
+    .s3 { animation-delay: 6s; }
+    @keyframes sub {
+      0%   { opacity: 0; transform: translateY(8px); }
+      6%   { opacity: 1; transform: translateY(0); }
+      28%  { opacity: 1; transform: translateY(0); }
+      34%  { opacity: 0; transform: translateY(-8px); }
+      100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.7); } }
+
+    .scan { animation: scan 4.5s ease-in-out infinite; }
+    @keyframes scan { 0% { transform: translateX(0); opacity: 0; } 15% { opacity: 1; } 85% { opacity: 1; } 100% { transform: translateX(668px); opacity: 0; } }
+
+    .ltr { opacity: 0; animation: ltr 12s ease-out infinite; }
+    @keyframes ltr { 0% { opacity: 0; transform: translateY(1.6px); } 3% { opacity: 1; transform: translateY(0); } 92% { opacity: 1; } 96% { opacity: 0; } 100% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .ltr, .sub.s1 { opacity: 1 !important; }
+      .cur { opacity: 1 !important; }
+    }
+  </style>
+
+  <g clip-path="url(#round)">
+    <rect width="900" height="360" fill="url(#bg)"/>
+    <g class="blob" style="mix-blend-mode:screen">
+      <circle class="b1" cx="140" cy="90"  r="110" fill="#14b8a6" fill-opacity="0.55"/>
+      <circle class="b2" cx="760" cy="220" r="120" fill="#f59e0b" fill-opacity="0.40"/>
+      <circle class="b3" cx="560" cy="60"  r="90"  fill="#3b82f6" fill-opacity="0.28"/>
+    </g>
+    <rect width="900" height="360" fill="url(#dots)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="359" rx="0" fill="none" stroke="#ffffff" stroke-opacity="0.24"/>
+
+  <!-- status chip -->
+  <rect x="56" y="34" width="104" height="26" rx="0" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect class="pulse" x="70" y="43" width="8" height="8" fill="#3ddbc0"/>
+  <text x="88" y="51" font-size="12" fill="#d3d9e0">building</text>
+  <text x="844" y="51" font-size="12" fill="#8a919a" text-anchor="end">srm ist · chennai</text>
+
+  <!-- prompt -->
+  <text x="56" y="96" font-size="15" fill="#3ddbc0" fill-opacity="0.9">~/arnav $ whoami</text>
+
+  <!-- wordmark -->
+  <g transform="translate(0.6 62.6) scale(8.94)">
+    <path class="ltr" style="animation-delay:0.00s" d="M15.812 18.548L13.784 18.548L13.868 18.284L16.484 16.328L15.812 18.548ZM13.988 17.84L14.312 16.76L11.468 16.76L8.588 20.732L6.2 20.732L16.892 6.2L19.448 6.2L16.616 15.884L15.2 13.724L16.16 10.4L12.668 15.176L14.768 15.176L15.092 14.108L16.388 16.064L13.988 17.84Z" fill="url(#word)"/>
+    <path class="ltr" style="animation-delay:0.22s" d="M21.924 11.924Q22.092 11.924 22.224 11.834Q22.356 11.744 22.44 11.456L23.328 8.42Q23.46 7.94 23.004 7.94L19.392 7.94L20.496 6.2L24.42 6.2Q25.104 6.2 25.356 6.608Q25.608 7.016 25.428 7.628L24.072 12.164Q23.988 12.44 23.76 12.662Q23.532 12.884 23.064 12.884Q23.496 12.92 23.586 13.304Q23.676 13.688 23.52 14.216L22.236 18.548L20.22 18.548L21.612 13.844Q21.66 13.676 21.6 13.58Q21.54 13.484 21.348 13.484L20.748 13.484L19.248 18.548L17.232 18.548L20.268 8.228L22.284 8.228L21.204 11.924L21.924 11.924Z" fill="url(#word)"/>
+    <path class="ltr" style="animation-delay:0.44s" d="M25.684 18.548L23.668 18.548L26.704 8.228L28.72 8.228L25.684 18.548ZM29.656 8.36Q29.776 7.94 29.32 7.94L25.828 7.94L26.932 6.2L30.832 6.2Q31.516 6.2 31.792 6.608Q32.068 7.016 31.888 7.628L28.672 18.548L26.656 18.548L29.656 8.36Z" fill="url(#word)"/>
+    <path class="ltr" style="animation-delay:0.66s" d="M36.656 18.548L34.628 18.548L34.712 18.284L37.328 16.328L36.656 18.548ZM34.832 17.84L35.156 16.76L32.312 16.76L29.432 20.732L27.044 20.732L37.736 6.2L40.292 6.2L37.46 15.884L36.044 13.724L37.004 10.4L33.512 15.176L35.612 15.176L35.936 14.108L37.232 16.064L34.832 17.84Z" fill="url(#word)"/>
+    <path class="ltr" style="animation-delay:0.88s" d="M40.98 6.2L42.96 6.2L41.796 13.064L44.436 6.2L46.464 6.2L41.22 18.548L39.288 18.548L40.98 6.2Z" fill="url(#word)"/>
+  </g>
+
+  <!-- rotating one-liners -->
+  <g font-size="20" fill="#e6eaef">
+    <text class="sub s1" x="56" y="276"><tspan fill="#ff8a73">&gt;</tspan> teaching models to see, and to read genomes</text>
+    <text class="sub s2" x="56" y="276"><tspan fill="#ff8a73">&gt;</tspan> medical imaging, comp bio, computer vision</text>
+    <text class="sub s3" x="56" y="276"><tspan fill="#ff8a73">&gt;</tspan> currently: staring at loss curves</text>
+  </g>
+
+  <!-- scan line -->
+  <rect x="56" y="312" width="788" height="1" fill="#ffffff" fill-opacity="0.10"/>
+
+  <text x="56" y="340" font-size="13" fill="#8a919a" letter-spacing="2">ml  ·  imaging  ·  biology  ·  rl</text>
+</svg>
